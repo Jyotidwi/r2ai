@@ -1,6 +1,6 @@
 {
   "dependencies": {
-    "openai": "^3.1.0",
+    "openai": "^4.29.2",
     "r2pipe": "^2.8.0"
   },
   "devDependencies": {
